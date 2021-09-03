@@ -1,3 +1,4 @@
+![I am Mahmuda Jhumur](https://github.com/mahmudajhumur/mahmudajhumur/blob/main/mahmudajhumurgithub.jpg)
 <h1 align="center">Hi 👋, I'm Mahmuda Jhumur</h1>
 <h3 align="center">Software Developer | Full Stack Developer | Android Developer | Python | Java | AI</h3>
 
