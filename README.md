@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahmuda Jhumur</h1>
 <h3 align="center">Software Developer | Full Stack Developer | Android Developer | Python | Java | AI</h3>
 
-<p align="left"> <img src="https://github.com/mahmudajhumur/mahmudajhumur/blob/main/jhumur.gif" alt="mahmudajhumur" /> </p>
+<p align="right"> <img src="https://github.com/mahmudajhumur/mahmudajhumur/blob/main/jhumur.gif" alt="mahmudajhumur" /> </p>
 
 - 🔭 I’m currently working on **iSquad It As A Software Developer**
 
