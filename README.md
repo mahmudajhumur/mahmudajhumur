@@ -31,7 +31,7 @@
 - 💻   JAVA | Spring Framework | Python | Django | PHP
 - 🌐   HTML | CSS | JavaScript | Tailwind CSS | Bootstrap | Material UI | React Bootstrap
 - 🛢   Heroku | Firebase | GitHub | MySQL | SQLite
-- 🔧   Netbeans IDE | Visual Studio code | Git
+- 🔧   Netbeans IDE | Visual Studio code | Git | Pycharm
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
