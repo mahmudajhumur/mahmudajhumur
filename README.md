@@ -3,11 +3,23 @@
 <h1 align="center">Hi 👋, I'm Mahmuda Jhumur</h1>
 <h3 align="center">Software Developer | Full Stack Developer | Android Developer | Python | Java | AI</h3>
 
-
+👨🏻‍💻 About Me
 
 - 🔭 I’m currently working on **iSquad It As A Software Developer**
 
 - 🌱 I’m currently learning **Python, Django Framework**
+
+- 🤔   Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓   Studying BSC in Computer Science & Engineering.
+
+- 💼   Software Develeoper
+
+- 🌱   Enthusiast in back end and full stack 
+
+- ✍️   Playing Video Games as hobbies/side hustles.
+
+- ☕   I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahmudajhumur](https://github.com/mahmudajhumur)
 
@@ -15,6 +27,11 @@
 
 - 📫 How to reach me **mahmudaakterjhumur@gmail.com**            
 
+🛠 Tech Stack
+- 💻   JAVA | Spring Framework | Python | Django | PHP
+- 🌐   HTML | CSS | JavaScript | Tailwind CSS | Bootstrap | Material UI | React Bootstrap
+- 🛢   Heroku | Firebase | GitHub | MySQL | SQLite
+- 🔧   Netbeans IDE | Visual Studio code | Git
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
